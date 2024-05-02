@@ -1,0 +1,4 @@
+FUNCTION
+ - use case
+ - built in functions
+ - pointer
