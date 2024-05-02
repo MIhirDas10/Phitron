@@ -1,0 +1,5 @@
+string copy
+comparision between two strings
+concatenation of two strings
+counting array --- how to count value
+counting array --- how to count character
