@@ -1,0 +1,5 @@
+Dynamic and Static Memory
+Dynamic Variable - how to create?
+Dynamic Array - how it works?
+Array - how to return from function
+Dynamic Memory - how to delete

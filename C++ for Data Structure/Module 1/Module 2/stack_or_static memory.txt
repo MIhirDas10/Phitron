@@ -1,0 +1,22 @@
+// ________________________
+// Stack ---> static memory
+// Heap ---> dynamic memory
+// ________________________
+
+
+
+Static Memory/Compile time Memory
+
+1. memory limited
+   int a[n] ---> by reading n it understands how much space does 
+                 it need before runnig the code
+   can't increase the size of static array
+2. Automatic Memory clear
+
+
+Dynamic Memory/Runtime Memory
+
+1. more memory (not unlimited)
+   can increase the size of dynamic array
+   --- like from n=5 it can increase to n=10 or whatever it increase
+2. User instructed
