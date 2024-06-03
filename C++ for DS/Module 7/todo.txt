@@ -1,0 +1,5 @@
+array of objects
+minimum or maximum on the basis of array of objects
+array of objects sort 
+custom compare function
+custom sort technique
