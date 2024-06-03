@@ -1,0 +1,6 @@
+// --- mainly about STRING --- //
+learn more about c++
+learn about built in function of string
+how to take input with space
+word by word print
+learn about iterator --- with pointer
