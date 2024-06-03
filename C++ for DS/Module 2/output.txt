@@ -1,0 +1,8 @@
+b array before: 
+10 20 30 
+b array after: 
+10 
+20 
+30 
+Increased a array: 
+10 20 30 40 50 
