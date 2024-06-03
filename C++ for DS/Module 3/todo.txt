@@ -1,0 +1,5 @@
+class and object - where do we need it
+class, object - how to create
+constructor and arrow sign - how it works
+dynamic object - how to create it
+sort() function - how to array sort using it
