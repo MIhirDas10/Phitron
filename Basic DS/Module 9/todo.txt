@@ -1,0 +1,5 @@
+Doubly Linked List - Discussion
+Doubly Linked List - insert
+Doubly Linked List - delete
+Array, Singly and Doubly Linked List - complexity
+*** Singly < Array < Doubly ***

@@ -1,0 +1,6 @@
+Doubly Linked List's Library
+STL - List
+Singly - Reverse
+Doubly - Reverse
+Singly - Cycle detection
+Doubly - Cycle detection (same thing as Singly)
