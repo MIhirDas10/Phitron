@@ -1,0 +1,5 @@
+singly LL 
+node insert and delete --- again
+taking inputs --- optimized way
+printing LL --- reverse way
+LL --- sorting (using for loop)

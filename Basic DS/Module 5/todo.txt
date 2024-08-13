@@ -1,0 +1,4 @@
+the problems of array - and why did Linked List come
+creating a node in the Linked List
+Dynamic Object
+printing Linked List

@@ -1,0 +1,5 @@
+reference of function pointer
+how to insert a node
+how to delete a node
+error handling
+how to take input of Linked List
