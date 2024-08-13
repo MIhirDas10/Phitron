@@ -1,0 +1,3 @@
+Time and Space Complexity
+O(1), O(logN), O(sqrt(N)) --- we will learn about these
+O(N), O(NlogN), O(N*N) --- we will learn about these
