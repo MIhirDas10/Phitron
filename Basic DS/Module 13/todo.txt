@@ -1,0 +1,5 @@
+learn about STACK and it's usage
+implementing stack with dynamic array - VECTOR(last in first out)
+implementing stack with list - STL
+implementing stack with - Doubly LL
+STL's stack library

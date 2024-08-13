@@ -1,0 +1,6 @@
+QUEUE/LINE - (first in first out)
+QUEUE - implementation with Singly Linked List
+QUEUE - implementation with LIST
+QUEUE - implementation with Doubly Linked List
+QUEUE - implementation with STL
+problem solving with STACK and QUEUE
