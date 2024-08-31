@@ -1,0 +1,26 @@
+BST - Binary Search Tree
+how to create BST
+why there is no duplicate values in BST
+how to handle duplicate values in BST
+how to search in BST
+how to insert a node in BST
+how to create a BST from an array - array has to be sorted
+
+
+
+
+Binary Search Tree = Binary Tree + Binary Search
+
+conditions:
+1. node.left.val < node.val
+2. node.right.val > node.val
+
+equal is not possible (< or >)
+
+
+
+How to handle duplicate:
+-> to keep a count
+...can't be inserted because if you insert
+duplicate values then the tree will be messed up
+and to some extend broken.
