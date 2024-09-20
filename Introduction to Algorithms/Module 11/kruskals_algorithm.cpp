@@ -3,13 +3,13 @@ using namespace std;
 const int N = 1e5+5;
 int parent[N];
 int group_size[N];
-void dsu_initialize(int n){
+void dsu_initialize(int n){ // initializing the DSU
     for(int i=0; i<n; i++){
         parent[i]= -1;
         group_size[i] = 1;
     }
 }
-int dsu_find(int node){
+int dsu_find(int node){ // finds the leader with DSU
     if(parent[node]==-1) return node; // leader
     // if -1 then it is the leader
     // otherwise find a leader
@@ -17,7 +17,7 @@ int dsu_find(int node){
     parent[node] = leader; // path compression
     return leader;
 }
-void dsu_union_by_size(int node1, int node2){
+void dsu_union_by_size(int node1, int node2){ // connection
     int leaderA = dsu_find(node1);
     int leaderB = dsu_find(node2);
     if(group_size[leaderA] > group_size[leaderB]){
@@ -60,12 +60,12 @@ int main()
     for(Edge ed : edgeList){
         int leaderU = dsu_find(ed.u);
         int leaderV = dsu_find(ed.v);
-        if(leaderU == leaderV){
-            continue;
+        if(leaderU == leaderV){ // if the two leaders matches then skip
+            continue; // skip
         }
         else{
             dsu_union_by_size(ed.u, ed.v);
-            total_cost += ed.w;
+            total_cost += ed.w; // cost
         }
     }
     cout<<total_cost<<endl;
