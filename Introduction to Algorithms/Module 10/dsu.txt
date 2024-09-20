@@ -1,0 +1,15 @@
+Disjoint Set Union
+
+Union Find Algorithm
+
+Find -> searching for leader
+Union -> make a leader combining of the two teams
+
+time complexity
+
+O(n)
+O(logN)
+O(alpha(n)) -> nearby of 4 or constant
+
+
+dsu -> cycle detection

@@ -1,0 +1,19 @@
+// depth first search - DFS
+
+// PRE, IN, POST - order
+// but in graph there is nothing like these
+// so, root, children (depth wise)
+
+// ALGORITHM
+
+// dfs(src){
+//     -> work
+//     -> vis[src] = true
+//     for(int child:v[src]){
+//         if(!vis[child]){
+//             def(child)
+//         }
+//     }
+// }
+
+// COMPLEXITY - BFS & DFS (same) -> (V + E)
